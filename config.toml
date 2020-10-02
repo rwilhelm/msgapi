@@ -1,0 +1,9 @@
+[api]
+port = "3777"
+
+[database]
+user = "asdf"
+port = "5432"
+name = "msgapi"
+pass = "ezeic0uX"
+host = "localhost"
